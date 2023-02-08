@@ -166,7 +166,7 @@ const CONFIG = {
 				},
 				{
 					name: 'GRIPS',
-					link: 'https://grips.ur.de/',
+					link: 'https://elearning.uni-regensburg.de/',
 				},
 				{
 					name: 'FlexNow',
