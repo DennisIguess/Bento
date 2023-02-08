@@ -162,15 +162,15 @@ const CONFIG = {
 			links: [
 				{
 					name: 'SPUR',
-					link: 'spur.uni-regensburg.de',
+					link: 'https://spur.uni-regensburg.de/',
 				},
 				{
 					name: 'GRIPS',
-					link: 'grips.ur.de',
+					link: 'https://grips.ur.de/',
 				},
 				{
 					name: 'FlexNow',
-					link: 'fn2.ur.de',
+					link: 'https://fn2.ur.de/',
 				},
 				{
 					name: 'Overleaf',
