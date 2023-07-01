@@ -139,15 +139,15 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'No thoughts, head empty',
+					name: 'No thoughts',
 					link: 'https://www.youtube.com/watch?v=HL9_xm5HwrE',
 				},
 				{
-					name: 'Classical to solve physics to',
+					name: 'Classical',
 					link: 'https://www.youtube.com/watch?v=zsU5Dva3Ya4',
 				},
 				{
-					name: 'Ghibli music to feel something',
+					name: 'Ghibli music',
 					link: 'https://www.youtube.com/watch?v=PHklnuOvxfg',
 				},
 				{
