@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Dana',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
