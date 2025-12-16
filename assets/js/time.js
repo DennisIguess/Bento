@@ -6,7 +6,7 @@
 window.onload = displayClock();
 function displayClock() {
 	const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-	const offset = 1; // timezone offset to UTC in h
+	const offset = 60; // timezone offset to UTC in mins
 
 	var d = new Date();
 	d.setTime(d.getTime() + offset * 60 * 1000);
