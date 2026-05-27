@@ -53,8 +53,8 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
+			name: 'GitHub',
+			icon: 'git-pull-request-arrow',
 			link: 'https://github.com/',
 		},
 		{
@@ -66,19 +66,19 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'YouTube',
-			icon: 'youtube',
+			icon: 'play',
 			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '4',
 			name: 'Twitch',
-			icon: 'twitch',
+			icon: 'message-square-quote',
 			link: 'https://www.twitch.tv/',
 		},
 		{
 			id: '5',
 			name: 'Wikipedia',
-			icon: 'globe-2',
+			icon: 'globe',
 			link: 'https://www.wikipedia.org/',
 		},
 		{
